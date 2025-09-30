@@ -12,27 +12,3 @@ h2 {
 color: #56DCE3;
 text-align: center;
 }
-
-.about {
-  padding: 20px;
-  margin: 20px;
-  border-radius: 10px;
-}
-
-.skills {
-  padding: 20px;
-  margin: 20px;
-  border-radius: 10px;
-}
-
-.projects {
-  padding: 20px;
-  margin: 20px;
-  border-radius: 10px;
-}
-
-.contact {
-  padding: 20px;
-  margin: 20px;
-  border-radius: 10px;
-}
