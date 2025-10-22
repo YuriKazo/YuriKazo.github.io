@@ -12,19 +12,3 @@ h2 {
 color: #56DCE3;
 text-align: center;
 }
-.project img{
-width: 300px;
-height: 300px;
-margin: 10px;
-border: 2px solid rgb(81, 178, 231); 
-display: block;
-margin: auto;
-}
-a { 
-text-decoration: none;
-color: purple;
-}
-.project p { 
-text-align: center;
-margin: 15px;
-}
