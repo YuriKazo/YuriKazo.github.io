@@ -12,11 +12,19 @@ h2 {
 color: #56DCE3;
 text-align: center;
 }
-.projects { display:flex; flex-wrap:wrap; } 
-.project {
-    width: 30%;
-    margin: 10px;
-    padding: 20px 10px;
-    background: #51b2e7; 
-    border-radius: 25%;
+.project img{
+width: 300px;
+height: 300px;
+margin: 10px;
+border: 2px solid rgb(81, 178, 231); 
+display: block;
+margin: auto;
+}
+a { 
+text-decoration: none;
+color: purple;
+}
+.project p { 
+text-align: center;
+margin: 15px;
 }
