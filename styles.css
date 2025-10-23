@@ -13,12 +13,11 @@ color: #56DCE3;
 text-align: center;
 }
 .project img {
-  width: 80%;             
-  max-width: 400px;   
-  height: auto;          
-  margin: 10px auto;     
-  border: 2px solid rgb(81, 178, 231); 
-  display: block;
+  width: 180px;          
+  height: auto;            
+  margin: 20px auto;       
+  border: 2px solid rgb(81, 178, 231);
+  display: block;          
 }
 a { 
 text-decoration: none;
